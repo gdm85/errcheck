@@ -9,8 +9,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/kisielk/errcheck/internal/errcheck"
-	"github.com/kisielk/gotool"
+	"github.com/gdm85/errcheck/internal/errcheck"
+	"github.com/gdm85/gotool"
 )
 
 const (
